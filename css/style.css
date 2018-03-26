@@ -1,0 +1,93 @@
+body	{
+	color: #304D67;
+	background-image: url("../image/wallpapper.png");
+	background-repeat: no-repeat;
+	background-position: center; 
+	background-size: cover;
+	font-family: "Open Sans", sans-serif;
+}
+h1	{
+	font-family: Arvo;
+	font-size: 48px;
+}
+
+a	{
+	color: #1ECE6D;
+	text-decoration: none;
+}
+
+a:hover	{
+	text-decoration: underline;
+	color: grey
+}
+.glace {
+	border-radius: 50%;
+	width: 100px;
+	border: 2px solid black
+}
+#man {width: 200px;
+border-radius: 50%;
+border: 2px solid black
+ }
+ .shadow {
+ 	box-shadow: 3px 3px 5px black
+ }	
+ p	{
+ 	color: grey;
+ 	font-family: arial
+ }
+ .blue	{ color: grey;	font-family: arial
+  }  
+#container {
+	border: 2px solid grey;
+	margin: 100px; 
+	padding: 50px;
+	text-align: center;
+	display: inline-block;
+	color: white;
+} 
+#teaser {
+	border: 1px solid black;
+	background-color: black;
+	 margin: 20px; 
+	 padding: 50px;
+	 text-align: center;
+	}
+.circle {
+		border-radius: 20%;
+		border: 1px solid grey;
+		box-shadow: 3px 3px 5px black
+	}
+#footer	{
+	background-color: black;
+	color: #aaaaaa;
+	padding-top: 1em;
+	padding-bottom: 1em
+}
+ p {
+ 	color: #black;
+ }
+ #footer	a{
+ 	color: #aaaaaa
+
+ }
+ #footer a:hover {
+ 	color: #dddddd
+ } 
+ .social	a {
+ 	font-size: 24px;
+ }
+ #wrapper	{
+ 	background-image: url("../image/isaac.jpg");
+ 	height: 250px;
+ 	background-repeat: no-repeat; 
+ 	background-size: cover;
+ 	text-align: center;
+ 	padding-top: 50px;
+ 	color:		#A61C15;
+ 	text-shadow: 2px 2px 5px white;
+ }
+ #navbar {
+ 	background-color: grey;
+
+ }
